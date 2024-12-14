@@ -1,0 +1,12 @@
+/workspaces/createnugetpackage/AppLogger/bin/Debug/net8.0/AppLogger.deps.json
+/workspaces/createnugetpackage/AppLogger/bin/Debug/net8.0/AppLogger.dll
+/workspaces/createnugetpackage/AppLogger/bin/Debug/net8.0/AppLogger.pdb
+/workspaces/createnugetpackage/AppLogger/obj/Debug/net8.0/AppLogger.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/createnugetpackage/AppLogger/obj/Debug/net8.0/AppLogger.AssemblyInfoInputs.cache
+/workspaces/createnugetpackage/AppLogger/obj/Debug/net8.0/AppLogger.AssemblyInfo.cs
+/workspaces/createnugetpackage/AppLogger/obj/Debug/net8.0/AppLogger.csproj.CoreCompileInputs.cache
+/workspaces/createnugetpackage/AppLogger/obj/Debug/net8.0/AppLogger.sourcelink.json
+/workspaces/createnugetpackage/AppLogger/obj/Debug/net8.0/AppLogger.dll
+/workspaces/createnugetpackage/AppLogger/obj/Debug/net8.0/refint/AppLogger.dll
+/workspaces/createnugetpackage/AppLogger/obj/Debug/net8.0/AppLogger.pdb
+/workspaces/createnugetpackage/AppLogger/obj/Debug/net8.0/ref/AppLogger.dll

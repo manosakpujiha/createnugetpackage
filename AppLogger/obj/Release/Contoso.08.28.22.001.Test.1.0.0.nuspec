@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Contoso.08.28.22.001.Test</id>
+    <version>1.0.0</version>
+    <authors>manos</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="0437d1d46bee18535d7f632189f1685ac3e7cf2d" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/workspaces/createnugetpackage/AppLogger/bin/Release/net8.0/AppLogger.dll" target="lib/net8.0/AppLogger.dll" />
+  </files>
+</package>
