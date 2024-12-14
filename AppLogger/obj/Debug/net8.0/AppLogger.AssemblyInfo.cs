@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arcadezone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.3.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.3+dbbcce766fa5634d8acc4e71fb23406ad217e679")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.3+ac3acbf6f4b83c4f802775719e594ce4978cadda")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppLogger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppLogger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.1.3.0")]
